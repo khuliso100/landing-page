@@ -1,2 +1,0 @@
-# An Organization landing page
-
